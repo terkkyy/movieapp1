@@ -5,6 +5,7 @@ import 'package:movieapp/model/cast.dart';
 import 'package:movieapp/model/cast_response.dart';
 import 'package:movieapp/style/theme.dart' as Style;
 
+
 class Casts extends StatefulWidget {
   final int id;
   Casts({Key key, @required this.id}) : super(key: key);
