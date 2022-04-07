@@ -10,6 +10,7 @@ class VideoPlayerScreen extends StatefulWidget {
   _VideoPlayerScreenState createState() => _VideoPlayerScreenState(controller);
 }
 
+
 class _VideoPlayerScreenState extends State<VideoPlayerScreen> {
   final YoutubePlayerController controller;
   
