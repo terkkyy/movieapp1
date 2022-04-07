@@ -19,8 +19,7 @@ class _HomeScreenState extends State<HomeScreen> {
       appBar: AppBar(
         backgroundColor: Style.Colors.mainColor,
         centerTitle: true,
-        leading: Icon(EvaIcons.menu2Outline, color: Colors.white,),
-        title: Text("Discover"),
+        title: Text("WHATAMWATCH"),
         actions: <Widget>[
           IconButton(
             onPressed: () {},
